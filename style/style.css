@@ -1,5 +1,5 @@
 :root {
-    --primary: #518db6;
+    --primary: #518eb6;
     --secondary: #34547c;
     --accent: #2c749b;
     --light: #929292;
@@ -223,7 +223,7 @@ h1, h2, h3, h4 {
 /* Раздел для новичков */
 .heroes-section {
     padding: 60px 0;
-    background-color: #c3e6e9;
+    background-color: #ccdfe06b;
 }
 
 .heroes-section h2 {
