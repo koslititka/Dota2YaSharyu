@@ -135,7 +135,7 @@ h1, h2, h3, h4 {
 /* Герой */
 .hero {
     padding: 60px 0;
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(58, 79, 204, 0.5));
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(102, 169, 231, 0.5));
     background-size: cover;
     background-position: center;
     color: white;
@@ -180,7 +180,7 @@ h1, h2, h3, h4 {
 /* Быстрые ссылки */
 .quick-links {
     padding: 60px 0;
-    background-color:rgba(58, 80, 204, 0.5);
+    background-color:#e0e9e9;
 }
 
 .quick-links h2 {
